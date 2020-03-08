@@ -9,6 +9,7 @@ import java.io.InputStreamReader;
  * @author chlgpdus921
  * @date 2020. 3. 7.
  */
+/* 1,2,3 ¥ı«œ±‚ */
 public class BOJ9095 {
 	static int[] d;
 
