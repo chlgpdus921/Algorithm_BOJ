@@ -10,6 +10,7 @@ import java.util.StringTokenizer;
  * @author chlgpdus921
  * @date 2020. 3. 7.
  */
+/* 카드 구매하기 */
 public class BOJ11052 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

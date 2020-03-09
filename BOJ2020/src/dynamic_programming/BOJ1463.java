@@ -3,10 +3,13 @@ package dynamic_programming;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
-/*
- * 1로 만들기
+/**
+ * 
+ * @FileName BOJ1463.java
+ * @author chlgpdus921
+ * @date 2020. 3. 6.
  */
+/* 1로 만들기 */
 public class BOJ1463 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
