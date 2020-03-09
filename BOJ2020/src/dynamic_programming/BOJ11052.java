@@ -10,7 +10,7 @@ import java.util.StringTokenizer;
  * @author chlgpdus921
  * @date 2020. 3. 7.
  */
-/* Ä«µå ±¸¸ÅÇÏ±â */
+/* ì¹´ë“œ êµ¬ë§¤í•˜ê¸° */
 public class BOJ11052 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
  * @author chlgpdus921
  * @date 2020. 3. 7.
  */
-/* 2*N Ÿ�ϸ� */
+/* 2*N 타일링 */
 public class BOJ11726 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

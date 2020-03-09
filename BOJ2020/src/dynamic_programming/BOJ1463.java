@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
  * @author chlgpdus921
  * @date 2020. 3. 6.
  */
-/* 1·Î ¸¸µé±â */
+/* 1ë¡œ ë§Œë“¤ê¸° */
 public class BOJ1463 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

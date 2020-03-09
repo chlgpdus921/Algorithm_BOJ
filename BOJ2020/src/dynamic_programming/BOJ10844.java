@@ -11,7 +11,7 @@ import java.util.Arrays;
  * @author chlgpdus921
  * @date 2020. 3. 9.
  */
-/* ½¬¿î °è´Ü ¼ö 45656 ÀÎÁ¢ÇÑ ¸ğµç ÀÚ¸®¼ö 1Â÷ÀÌ */
+/* ì‰¬ìš´ ê³„ë‹¨ ìˆ˜ 45656 ì¸ì ‘í•œ ëª¨ë“  ìë¦¬ìˆ˜ 1ì°¨ì´ */
 public class BOJ10844 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
