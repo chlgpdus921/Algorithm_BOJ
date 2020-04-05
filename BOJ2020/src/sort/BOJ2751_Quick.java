@@ -7,12 +7,12 @@ import java.util.StringTokenizer;
 
 /**
  * 
- * @FileName BOJ2751.java
+ * @FileName BOJ2751_Quick.java
  * @author chlgpdus921
- * @date 2020. 4. 2.
+ * @date 2020. 4. 4.
  */
 /* 수 정렬하기 2 */
-public class BOJ2751 {
+public class BOJ2751_Quick {
 	public static void main(String args[]) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringBuilder sb = new StringBuilder();
