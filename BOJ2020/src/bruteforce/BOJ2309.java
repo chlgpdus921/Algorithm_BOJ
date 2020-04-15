@@ -11,7 +11,9 @@ import java.util.Arrays;
  * @author chlgpdus921
  * @date 2020. 4. 15.
  */
-/* 일곱 난쟁이 */
+/* 일곱 난쟁이 
+ * 난쟁이가 아닌 두명을 찾자.
+ * 9C2 = 36개*/
 public class BOJ2309 {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
