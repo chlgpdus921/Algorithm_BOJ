@@ -16,7 +16,6 @@ import java.util.StringTokenizer;
 public class BOJ13023 {
 	static int n, m;
 	static boolean check = false;
-
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(br.readLine(), " ");
