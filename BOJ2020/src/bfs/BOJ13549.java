@@ -20,6 +20,7 @@ public class BOJ13549 {
 		StringTokenizer st = new StringTokenizer(br.readLine(), " ");
 		int n = Integer.valueOf(st.nextToken());
 		int k = Integer.valueOf(st.nextToken());
+		
 		boolean[] check = new boolean[1000001];
 		int[] index = new int[1000001];
 		Queue<Integer> queue = new LinkedList<Integer>();
@@ -37,12 +38,14 @@ public class BOJ13549 {
 				value = tmp[i];
 
 				if (value >= 0 && value < 1000001 && check[value] == false) {
-					if(i !=0) {
+					if(i != 0) {
 					index[value] = index[cur] + 1;
+					}
+					else {
+						index[value] = index[cur];
 					}
 					check[value] = true;
 					queue.add(value);
-
 				}
 				if (value == k)
 					break;
@@ -52,7 +55,7 @@ public class BOJ13549 {
 				break;
 		}
 
-		System.out.println(index[k]);
+		System.out.println(index[k] + 2);
 
 }
 
