@@ -72,16 +72,4 @@ public class BOJ13913 {
 		}
 		sb.append(k + " ");
 	}
-	
-	
-	/*
-	 * 시간 초과 뜬거 
-	 * public static void moveData(int n, int k) { int index = before[k];
-	 * 
-	 * sb.append(k + " "); while (index != n) { sb.insert(0, index + " "); index =
-	 * before[index]; } sb.insert(0, n + " ");
-	 * 
-	 * }
-	 */
-
 }
