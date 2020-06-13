@@ -1,5 +1,6 @@
 /bfs/
 /bruteforce/
+/bruteforce_bitmask/
 /bruteforce_nm/
 /bruteforce_permutation/
 /bruteforce_recursion/
@@ -9,4 +10,4 @@
 /math/
 /sort/
 /tree/
-/bruteforce_bitmask/
+/myPackage/
