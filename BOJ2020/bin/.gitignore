@@ -1,15 +1,3 @@
-/bfs/
-/bruteforce/
-/bruteforce_bitmask/
-/bruteforce_nm/
-/bruteforce_permutation/
-/bruteforce_recursion/
-/divide_conquer/
-/dynamic_programming/
-/graph/
-/greedy/
-/kakao/
-/math/
 /myPackage/
-/sort/
-/tree/
+/stack/
+/simulation/
