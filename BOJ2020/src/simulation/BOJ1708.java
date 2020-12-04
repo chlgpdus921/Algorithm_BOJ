@@ -1,4 +1,4 @@
-package myPackage;
+package simulation;
 
 import java.io.*;
 import java.util.*;
